@@ -224,7 +224,7 @@ let BattleFormatsData = {
 	sandslash: {
 		inherit: true,
 		randomBattleMoves: ["earthquake", "rockslide", "stealthrock", "swordsdance", "xscissor"],
-		tier: "OU",
+		tier: "UU",
 		doublesTier: "DOU",
 	},
 	sandslashalola: {
